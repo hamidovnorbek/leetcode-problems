@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Run main.cpp",
+      "type": "shell",
+      "command": "g++ -std=c++17 -Wall -Wextra -O2 main.cpp -o main && ./main",
+      "working_dir": "$PROJECT_DIR$"
+    }
+  ]
+}
